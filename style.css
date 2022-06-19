@@ -1,0 +1,127 @@
+/* all container consolation  */
+.container{
+    padding-bottom: 50px;
+}
+/* this for navigation manu image resize  */
+.navbar-brand img{
+    width: 105px;
+    height: 50px;
+}
+
+
+/* banner sectioner prevue and next button  */
+/* previue button  */
+.carousel-control-prev {
+    left: -100px;
+    width: 88px;
+}
+/* next button  */
+.carousel-control-next {
+    right: -100px;
+    width: 88px; 
+}
+/* carusel item alignment  */
+.carousel-item {
+    margin-top: -24px;
+    padding-bottom: 44px;
+}
+.carousel-item p{
+    margin-top: 20px;
+}
+/* banner section button design  */
+.btn-deg{
+    padding: 6px 26px 5px 11px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-top: 23px;
+    font-weight: bold;
+}
+/* banner button icon positioning  */
+.fa-long-arrow-right {
+    margin-left: 6px;
+    margin-top: 6px;
+    position: absolute; 
+}
+/* banner button hover  */
+.btn-deg:hover{
+    background-color: black;
+    color: white;
+}
+/* banner section (backgroun image posotining)  */
+.banner-sec{
+    position: relative;
+}
+/* background image one  */
+.banner1{
+    position: absolute;
+    height: 289px;
+    margin-top: 61px;
+    margin-left: -23px;
+}
+/* background image two  */
+.banner2{
+    height: 131px;
+    margin-top: 365px;
+    margin-left: 4px;
+    position: absolute;
+}
+  
+
+
+/* smart Mobiles and laptops */
+/* see all button  */
+.see-all-btn{
+    color: orange;
+    background-color: transparent;
+    border: none;
+}
+/* main card  */
+.card{
+    padding-bottom: 10px;
+    width: 353px;
+    border: none;
+    box-shadow: 1px 1px 10px 0px #e8e9e9; 
+}
+/* maion card hover  */
+.card:hover{
+    border:none;
+    box-shadow: 3px 3px 20px 4px #e8e9e9; 
+}
+/* card image  */
+.card img{
+    width: 70%;
+    margin: 26px 0;
+}
+/* card information posotoning  */
+.card h4,h5{
+    text-align: center;
+}
+/* card paragraph color poperty */
+.card-text{
+    text-align: center;
+    color: #707070;
+}
+/* card btn positoning */
+.btn-one{
+    margin-left: 80px;
+}
+.btn-two{
+    margin-left: 93px;
+}
+.btn-tyhree{
+    margin-left: 84px;
+}
+/* card btn decration  */
+.btn-secondary{
+    padding: 3px 27px 3px 8px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+/* card btn hover poperty  */
+.btn-secondary:hover{
+    background-color: black;
+    color: white;
+}
+
+
