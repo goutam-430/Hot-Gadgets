@@ -125,3 +125,46 @@
 }
 
 
+
+/* footer  */
+/* footer heading  */
+.heading h1{
+    margin-left: 443px;
+}
+hr{
+    color: #FF9C35 ;
+    border-top: 4px solid;
+    width: 107px;
+    margin-left: 488px;
+}
+
+
+
+/* footer div one  */
+.card-de-one{
+    width: 190px;
+    align-items: center;
+    margin-top: 194px;
+    border-radius: 0px 0px 0px 20px;
+}
+.one{  
+    border-radius: 0px 15px 0px 22px;
+}
+/* footer div two  */
+.card-de-two{
+    width: 190px;
+    align-items: center;
+    margin-top: 47px;
+    margin-left: -36PX;
+}
+.two, .three{
+    border-radius: 15px 0px 22px 0px;
+}
+/* footer div three  */
+.card-de-three{
+    margin-top: 55px;
+    width: 535px;
+}
+.card-de-three img{ 
+      width: 494px;
+}
